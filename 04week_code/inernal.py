@@ -50,5 +50,5 @@ print(data)
 print(type(data))
 
 # 데이터를 묶어서 반환
-data = list(zip([1, 2, 3], ['a', 'b', 'c']))
+data = list(zip([1, 2, 3], ['a', 'b', 'c'], ['X', 'Y', 'Z'] ))
 print(data)
